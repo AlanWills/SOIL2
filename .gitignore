@@ -6,3 +6,4 @@ lib/*
 projects/*
 *.DS_Store*
 bin/SDL2.dll
+build/
